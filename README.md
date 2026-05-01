@@ -53,4 +53,3 @@ If you want to help us out, you are more than welcome to. However please make su
 [`WebDriverAgent` is BSD-licensed](LICENSE). We also provide an additional [patent grant](PATENTS).
 
 Have fun!
-"# wda-builder" 
